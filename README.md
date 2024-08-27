@@ -1,3 +1,14 @@
+The main purpose of Bank Management System desktop application is to provide all 
+banking features or services in a single application. The features of this project are:
+• Creating/Updating/Deleting a customer account and user account.
+• Cash operations like withdrawing, depositing and transferring cash.
+Tools and Technologies
+The main technologies used are:
+• Java as the programming language.
+• Eclipse as IDE.
+• Microsoft SQL Server as the database for storing backend data.
+
+
 # JavaProject
 About Database
 ***********************
